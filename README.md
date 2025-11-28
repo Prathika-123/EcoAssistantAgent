@@ -270,8 +270,8 @@ Popup will appear automatically.
 
 ## 👩‍🎓 Developed By
 
-**Pooja B**
-**Poornima**
+**Pooja B,**
+**Poornima and **
 **Prathika**
 
 3rd Year – Computer Science and Engineering
