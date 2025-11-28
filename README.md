@@ -273,9 +273,11 @@ Popup will appear automatically.
 **Pooja B**
 **Poornima**
 **Prathika**
+
 3rd Year – Computer Science and Engineering
-M S Ramaiah Institute of Technology
-Bengaluru
+
+M S Ramaiah Institute of Technology,Bengaluru
+
 Eco-Friendly AI Project
 
 ---
