@@ -271,7 +271,7 @@ Popup will appear automatically.
 ## 👩‍🎓 Developed By
 
 **Pooja B,**
-**Poornima and **
+**Poornima,**
 **Prathika**
 
 3rd Year – Computer Science and Engineering
